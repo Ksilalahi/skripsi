@@ -1,0 +1,13 @@
+# Only the requested project directories are versioned.
+/*
+!/.gitignore
+!/configs/
+!/configs/**
+!/manifests/
+!/manifests/**
+!/notebooks/
+!/notebooks/**
+!/results/
+!/results/**
+!/src/
+!/src/**

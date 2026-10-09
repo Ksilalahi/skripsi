@@ -1,0 +1,2 @@
+model,run_name,seed,best_epoch,validation_eer,validation_threshold,test_eer,checkpoint,n_test_samples,evaluation_time_s
+ReplayResNet18_three_channel_GRL,baseline_seed_2026,2026,2,0.07346678107420493,0.9400131702423096,0.1389932321314996,C:\Users\kevin\Desktop\physical_replay_detector\checkpoints\replay_resnet\seed_2026\best_model.pt,70435,2283.5725557804108

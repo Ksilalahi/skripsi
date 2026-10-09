@@ -1,0 +1,7 @@
+{
+  "checkpoint": "C:\\Users\\kevin\\Desktop\\physical_replay_detector\\checkpoints\\replay_resnet_grl\\seed_2026_ep5\\best_model.pt",
+  "legacy_run": "grl_seed_2026_ep5",
+  "batch_size": 4,
+  "test_condition": "real",
+  "method": "logit margin"
+}

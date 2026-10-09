@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "run_name": "seed_42",
+  "baseline_checkpoint": "C:\\Users\\kevin\\Desktop\\physical_replay_detector\\checkpoints\\replay_resnet\\seed_42\\best_model.pt",
+  "grl_checkpoint": "C:\\Users\\kevin\\Desktop\\physical_replay_detector\\checkpoints\\replay_resnet_grl\\seed_42_ep5\\best_model.pt",
+  "baseline_epoch": 2,
+  "grl_epoch": 2,
+  "train_samples": 60,
+  "validation_samples": 45,
+  "embedding_dim": 256,
+  "probe": "StandardScaler + LogisticRegression(class_weight=balanced)",
+  "domain_mapping": {
+    "lecture": 0,
+    "meeting": 1,
+    "phone": 2,
+    "stairway": 3
+  },
+  "chance_balanced_accuracy": 0.25
+}

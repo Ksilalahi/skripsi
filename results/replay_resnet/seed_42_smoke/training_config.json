@@ -1,0 +1,22 @@
+{
+  "epochs": 1,
+  "batch_size": 4,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "seed": 42,
+  "num_workers": 0,
+  "embedding_dim": 256,
+  "n_transform": 2,
+  "transform_loss_weight": 0.1,
+  "weighting": "sqrt_inv",
+  "replay_sampling_boost": 8.0,
+  "grad_clip": 5.0,
+  "max_train_batches": 50,
+  "max_val_batches": 30,
+  "is_smoke_test": true,
+  "run_name": "seed_42_smoke",
+  "train_samples_after_protocol_filter": 25347,
+  "validation_samples_after_protocol_filter": 24764,
+  "expected_replay_fraction": 0.018628478286179997,
+  "expected_replay_draws_per_epoch": 472.1760391198044
+}

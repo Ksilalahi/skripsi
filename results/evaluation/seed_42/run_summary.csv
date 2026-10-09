@@ -1,0 +1,2 @@
+model,seed,best_epoch,validation_eer,validation_eer_threshold,test_eer,test_auc,test_balanced_accuracy
+ReplayResNet18_three_channel,42,2,0.0609824228758265,0.9355728626251221,0.14391394335293275,0.9321472792268292,0.8582147576995389

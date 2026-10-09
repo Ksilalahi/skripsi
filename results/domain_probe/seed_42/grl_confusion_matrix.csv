@@ -1,0 +1,5 @@
+,pred_lecture,pred_meeting,pred_phone,pred_stairway
+true_lecture,2,0,6,1
+true_meeting,1,1,5,1
+true_phone,2,2,9,7
+true_stairway,0,0,4,4

@@ -1,0 +1,7 @@
+{
+  "checkpoint": "C:\\Users\\kevin\\Desktop\\physical_replay_detector\\checkpoints\\seed_42\\best_model.pt",
+  "legacy_run": null,
+  "batch_size": 4,
+  "test_condition": "real",
+  "method": "logit margin"
+}

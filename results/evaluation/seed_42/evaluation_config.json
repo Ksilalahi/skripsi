@@ -1,0 +1,10 @@
+{
+  "checkpoint": "C:\\Users\\kevin\\Desktop\\physical_replay_detector\\checkpoints\\replay_resnet\\seed_42\\best_model.pt",
+  "checkpoint_epoch": 2,
+  "seed": 42,
+  "batch_size": 4,
+  "num_workers": 0,
+  "validation_eer": 0.0609824228758265,
+  "validation_eer_threshold": 0.9355728626251221,
+  "test_samples": 70435
+}

@@ -1,0 +1,4 @@
+condition,n_samples,expected_transform,mean_replay_probability,median_replay_probability,transform_accuracy
+clean,70178,0,0.03274107800685188,8.151349538820796e-05,0.9701473396221038
+simulated,45,1,0.9653645091586642,0.9870597124099731,1.0
+real,212,1,5.03313509920456e-06,1.968933361240488e-06,0.0
